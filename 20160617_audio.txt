@@ -1,0 +1,22 @@
+- Temas pendientes:
+    - Alejandro Zarate(Claudia Ivette Padilla).
+    - Margarita.
+      - Definir perfilado cliente interno (usuario) con la seguridad del banco.
+        - Obteniendo perfil del usuario poder darle las funcionalidades.
+      - Dos repositorios IBM (Margarita).
+      - LDAP(Alejandro) .- Grupo al que pertenece, obtener el header y los privilegios.
+        - El LDAP de nacar o corporativo.
+        - El alcance sera solo al Grupo BBVA Colombia (Erickson).
+        - LDAP Corporativo de solo colombia, se tiene 2 LDAP. Uno en mexico para Nacar y otro corporativo. (Erickson)
+        -
+	- Erickson require obtener el puesto funcional, entonces 
+        - Alejandro - WEBSEAL para colombia seria con LDAP corporativo (IBM)
+          - IBM alimenta a los LDAPs, revisar en la estructura de LDAP o en la herramienta revisar que tantos grupos se pueden crear para traducir en perfilado.
+          - IBM es como provisionamiento.
+        - Propuesta se requiere que el LDAP proveea los campos en header para generar un perfilado.
+
+- WEBSEAL DMZ o de Internet para ver que LDAP va a consumir.
+
+Juan Carlos Escobar.
+Claudia Fernandez.
+Alejandro Zarate.
